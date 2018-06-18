@@ -3,4 +3,4 @@ def square_array(array)
     i ** 2
   end
 
-square_array(array)
+p square_array(array)
